@@ -1,4 +1,4 @@
- https://wadams458.github.io/PartyWave/.
+ https://party-wave458.herokuapp.com/
 
 # PartyWave
 First Fullstack Application
